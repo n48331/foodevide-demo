@@ -18,7 +18,7 @@ export default function RootLayout({
 
     <html lang="en">
       <head>
-      <link rel="icon" type="image/png" href="/favicon.png"></link>
+      <link rel="icon" type="image/png" href="\favicons\android-chrome-192x192.png"></link>
       <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
       </head>
